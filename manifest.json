@@ -1,0 +1,13 @@
+{
+    "name": "Opinya Bookmark images",
+    "version": "1.0",
+    "description": "collect all page images by size and add their addresses as bookmarks",
+    "permissions": [
+        "bookmarks",
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_title": "Bookmark images"
+    },
+    "manifest_version": 2
+  }
